@@ -1,0 +1,3 @@
+python allennlp_script.py --param_path imojie/configs/imojie.json --s models/imojie_trial1 --mode train_test --force True
+python allennlp_script.py --param_path imojie/configs/imojie.json --s models/imojie_trial2 --mode train_test --force True
+python allennlp_script.py --param_path imojie/configs/imojie.json --s models/imojie_trial3 --mode train_test --force True
